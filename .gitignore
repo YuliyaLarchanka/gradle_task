@@ -5,10 +5,9 @@
 target/
 build/
 
-!multi-project/core/libs/utils-1.3.5.jar
-
 *.class
 *.jar
+!multi-project/core/libs/utils-1.3.5.jar
 *.war
 *.log
 *.iml
